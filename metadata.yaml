@@ -1,0 +1,36 @@
+_repo: Industrial-Poisoning-from-Fumes-Gases-and-Poisons-of-Manufacturing-Processes_60605
+_version: 0.0.1
+alternative_title: Gewerbliche Vergiftungen. English
+contributor:
+  translator:
+    agent_name: Legge, Thomas Morison, Sir
+    alias: Legge, T. M. (Thomas Morison), Sir
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '51049'
+    url: http://www.gutenberg.org/2009/agents/51049
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Morison_Legge
+creator:
+  author:
+    agent_name: Rambousek, Josef
+    birthdate: 1874
+    deathdate: 1917
+    gutenberg_agent_id: '51048'
+    url: http://www.gutenberg.org/2009/agents/51048
+description: ''
+gutenberg_issued: '2019-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hazardous occupations'
+- !lcc 'HD'
+- !lcsh 'Occupational diseases'
+- !lcsh 'Poisons'
+- GITenberg
+title: Industrial Poisoning from Fumes, Gases and Poisons of Manufacturing Processes
+url: http://www.gutenberg.org/ebooks/60605
